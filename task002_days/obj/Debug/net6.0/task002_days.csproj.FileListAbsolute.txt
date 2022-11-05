@@ -1,0 +1,15 @@
+C:\Users\Jalini\Documents\Обучение\hwArray\task002_days\obj\Debug\net6.0\task002_days.csproj.AssemblyReference.cache
+C:\Users\Jalini\Documents\Обучение\hwArray\task002_days\obj\Debug\net6.0\task002_days.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jalini\Documents\Обучение\hwArray\task002_days\obj\Debug\net6.0\task002_days.AssemblyInfoInputs.cache
+C:\Users\Jalini\Documents\Обучение\hwArray\task002_days\obj\Debug\net6.0\task002_days.AssemblyInfo.cs
+C:\Users\Jalini\Documents\Обучение\hwArray\task002_days\obj\Debug\net6.0\task002_days.csproj.CoreCompileInputs.cache
+C:\Users\Jalini\Documents\Обучение\hwArray\task002_days\bin\Debug\net6.0\task002_days.exe
+C:\Users\Jalini\Documents\Обучение\hwArray\task002_days\bin\Debug\net6.0\task002_days.deps.json
+C:\Users\Jalini\Documents\Обучение\hwArray\task002_days\bin\Debug\net6.0\task002_days.runtimeconfig.json
+C:\Users\Jalini\Documents\Обучение\hwArray\task002_days\bin\Debug\net6.0\task002_days.dll
+C:\Users\Jalini\Documents\Обучение\hwArray\task002_days\bin\Debug\net6.0\task002_days.pdb
+C:\Users\Jalini\Documents\Обучение\hwArray\task002_days\obj\Debug\net6.0\task002_days.dll
+C:\Users\Jalini\Documents\Обучение\hwArray\task002_days\obj\Debug\net6.0\refint\task002_days.dll
+C:\Users\Jalini\Documents\Обучение\hwArray\task002_days\obj\Debug\net6.0\task002_days.pdb
+C:\Users\Jalini\Documents\Обучение\hwArray\task002_days\obj\Debug\net6.0\task002_days.genruntimeconfig.cache
+C:\Users\Jalini\Documents\Обучение\hwArray\task002_days\obj\Debug\net6.0\ref\task002_days.dll
