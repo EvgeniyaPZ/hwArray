@@ -1,0 +1,15 @@
+C:\Users\Jalini\Documents\Обучение\hwArray\task001_SecondNumber\obj\Debug\net6.0\task001_SecondNumber.csproj.AssemblyReference.cache
+C:\Users\Jalini\Documents\Обучение\hwArray\task001_SecondNumber\obj\Debug\net6.0\task001_SecondNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jalini\Documents\Обучение\hwArray\task001_SecondNumber\obj\Debug\net6.0\task001_SecondNumber.AssemblyInfoInputs.cache
+C:\Users\Jalini\Documents\Обучение\hwArray\task001_SecondNumber\obj\Debug\net6.0\task001_SecondNumber.AssemblyInfo.cs
+C:\Users\Jalini\Documents\Обучение\hwArray\task001_SecondNumber\obj\Debug\net6.0\task001_SecondNumber.csproj.CoreCompileInputs.cache
+C:\Users\Jalini\Documents\Обучение\hwArray\task001_SecondNumber\bin\Debug\net6.0\task001_SecondNumber.exe
+C:\Users\Jalini\Documents\Обучение\hwArray\task001_SecondNumber\bin\Debug\net6.0\task001_SecondNumber.deps.json
+C:\Users\Jalini\Documents\Обучение\hwArray\task001_SecondNumber\bin\Debug\net6.0\task001_SecondNumber.runtimeconfig.json
+C:\Users\Jalini\Documents\Обучение\hwArray\task001_SecondNumber\bin\Debug\net6.0\task001_SecondNumber.dll
+C:\Users\Jalini\Documents\Обучение\hwArray\task001_SecondNumber\bin\Debug\net6.0\task001_SecondNumber.pdb
+C:\Users\Jalini\Documents\Обучение\hwArray\task001_SecondNumber\obj\Debug\net6.0\task001_SecondNumber.dll
+C:\Users\Jalini\Documents\Обучение\hwArray\task001_SecondNumber\obj\Debug\net6.0\refint\task001_SecondNumber.dll
+C:\Users\Jalini\Documents\Обучение\hwArray\task001_SecondNumber\obj\Debug\net6.0\task001_SecondNumber.pdb
+C:\Users\Jalini\Documents\Обучение\hwArray\task001_SecondNumber\obj\Debug\net6.0\task001_SecondNumber.genruntimeconfig.cache
+C:\Users\Jalini\Documents\Обучение\hwArray\task001_SecondNumber\obj\Debug\net6.0\ref\task001_SecondNumber.dll
