@@ -3,26 +3,41 @@ int A=Convert.ToInt32(Console.ReadLine());
 
 bool number (int NumberEnter)
 {
-    return (NumberEnter>100 & NumberEnter <1000);
+    return (NumberEnter>99 & NumberEnter <1000);
 }
 
-int number1 (int NumberEnter1)
+int lengthArray (int C)
 {
-    int D = NumberEnter1/10;
-    //Console.WriteLine(D);
-    D =D%10;
-    return D;
+    int count = 0;
+    while (C>0)
+    {
+        count++;
     }
-bool B=number(A);
+    return count;
+}
 
-if (B)
+int[] GetSecondNumber (int W)
 {
-    //int C = A%100;
-    Console.WriteLine(number1(A));
+    int length = lengthArray(W);
+    int[] newArray = new int(length);
+    for(int i=length-1; i<length; i--)
+    {
+  
+        newArray[i]=W%10;
+        W=W/10;
+
+    }
 }
-else
-{
-    Console.WriteLine("Error");
-}
+
+
+// if (B)
+// {
+//     //int C = A%100;
+//     Console.WriteLine(number1(A));
+// }
+// else
+// {
+//     Console.WriteLine("Error");
+// }
 
 
